@@ -25,6 +25,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "MULTI_LAYER";
             #binding-cells = <0>;
+            tapping-term-ms = <250>;
             bindings = <&osl 2 2>, <&osl 3 3>;
         };
 
@@ -102,10 +103,10 @@
 
         symbols-1 {
             bindings = <
-&bt BT_NXT  &bt BT_CLR_ALL  &none          &none              &none        &kp RS(SQT)  &kp LPAR          &kp RPAR           &kp PERCENT     &none
-&kp LSHFT   &kp LALT        &kp LCTRL      &kp LGUI           &kp LG(V)    &kp SQT      &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp UNDERSCORE  &kp MINUS
-&none       &kp RG(ESC)     &kp RG(SPACE)  &kp RG(RA(SPACE))  &kp LG(Z)    &kp GRAVE    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp TILDE       &kp BACKSLASH
-                                           &none              &kp TAB      &kp SPACE    &kp BACKSPACE
+&bt BT_NXT  &bt BT_CLR_ALL  &none          &studio_unlock     &mt LG(X) LG(C)  &kp RS(SQT)  &kp LPAR          &kp RPAR           &kp PERCENT     &none
+&kp LSHFT   &kp LALT        &kp LCTRL      &kp LGUI           &kp LG(V)        &kp SQT      &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp UNDERSCORE  &kp MINUS
+&none       &kp RG(ESC)     &kp RG(SPACE)  &kp RG(RA(SPACE))  &kp LG(Z)        &kp GRAVE    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp TILDE       &kp BACKSLASH
+                                           &none              &kp TAB          &kp SPACE    &kp BACKSPACE
             >;
         };
 
