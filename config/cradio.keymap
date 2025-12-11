@@ -20,6 +20,46 @@
             require-prior-idle-ms = <100>;
             bindings = <&kp>, <&kp>;
         };
+
+        multi_layer: multi_layer {
+            compatible = "zmk,behavior-tap-dance";
+            label = "MULTI_LAYER";
+            #binding-cells = <0>;
+            bindings = <&osl 2 2>, <&osl 3 3>;
+        };
+
+        osl: osl {
+            compatible = "zmk,behavior-hold-tap";
+            label = "OSL";
+            bindings = <&mo>, <&sl>;
+            #binding-cells = <2>;
+            tapping-term-ms = <200>;
+            quick-tap-ms = <150>;
+            require-prior-idle-ms = <100>;
+        };
+
+        qESC: qESC {
+            compatible = "zmk,behavior-tap-dance";
+            label = "QESC";
+            #binding-cells = <0>;
+            bindings = <&kp Q>, <&kp ESC>;
+        };
+
+        slRET: slRET {
+            compatible = "zmk,behavior-tap-dance";
+            label = "SLRET";
+            #binding-cells = <0>;
+            bindings = <&kp SLASH>, <&kp RET>;
+        };
+
+        l1mod: l1mod {
+            compatible = "zmk,behavior-hold-tap";
+            label = "L1MOD";
+            bindings = <&mo>, <&kp>;
+            #binding-cells = <2>;
+            tapping-term-ms = <200>;
+            quick-tap-ms = <150>;
+        };
     };
 
     conditional_layers {
