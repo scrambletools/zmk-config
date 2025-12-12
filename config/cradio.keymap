@@ -21,12 +21,20 @@
             bindings = <&kp>, <&kp>;
         };
 
-        multi_layer: multi_layer {
+        multil_osl: multi_layer {
             compatible = "zmk,behavior-tap-dance";
-            label = "MULTI_LAYER";
+            label = "MULTIL_OSL";
             #binding-cells = <0>;
             tapping-term-ms = <250>;
             bindings = <&osl 2 2>, <&osl 3 3>;
+        };
+
+        multil_sl: multi_layer {
+            compatible = "zmk,behavior-tap-dance";
+            label = "MULTIL_SL";
+            #binding-cells = <0>;
+            tapping-term-ms = <250>;
+            bindings = <&mo 2>, <&sl 3>;
         };
 
         osl: osl {
@@ -88,7 +96,7 @@
 &qESC        &kp W       &kp E        &kp R         &kp T      &kp Y      &kp U               &kp I        &kp O       &kp P
 &mt LSHFT A  &mt LALT S  &mt LCTRL D  &mt LGUI F    &kp G      &kp H      &mt RGUI J          &mt LCTRL K  &mt RALT L  &mt RSHFT SEMI
 &kp Z        &kp X       &kp C        &kp V         &kp B      &kp N      &kp M               &kp COMMA    &kp DOT     &slRET
-                                      &multi_layer  &kp TAB    &kp SPACE  &l1mod 1 BACKSPACE
+                                      &multil_sl    &kp TAB    &kp SPACE  &l1mod 1 BACKSPACE
             >;
         };
 
