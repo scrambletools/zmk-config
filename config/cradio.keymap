@@ -85,9 +85,9 @@
 
         zero {
             bindings = <
-                &kp Q        &kp W     &kp E        &studio_unlock           &kp T      &kp Y      &kp U               &kp I        &kp O       &kp P
+                &kp Q        &kp W     &kp E        &kp R           &kp T      &kp Y      &kp U               &kp I        &kp O       &kp P
                 &kp A        &kp S     &kp D        &kp F           &kp G      &kp H      &kp J               &kp K        &kp L       &kp SEMI
-                &kp Z        &kp X     &kp C        &kp V           &kp B      &kp N      &kp M               &kp COMMA    &kp DOT     &studio_unlock
+                &kp Z        &kp X     &kp C        &kp V           &kp B      &kp N      &kp M               &kp COMMA    &kp DOT     &kp A
                                                     &studio_unlock  &kp TAB    &kp SPACE  &kp BACKSPACE
             >;
         };
@@ -96,7 +96,7 @@
             bindings = <
                 &kp Q        &kp W     &kp E        &kp R           &kp T      &kp Y      &kp U               &kp I        &kp O       &kp P
                 &kp A        &kp S     &kp D        &kp F           &kp G      &kp H      &kp J               &kp K        &kp L       &kp SEMI
-                &kp Z        &kp X     &kp C        &kp V           &kp B      &kp N      &kp M               &kp COMMA    &kp DOT     &studio_unlock
+                &kp Z        &kp X     &kp C        &kp V           &kp B      &kp N      &kp M               &kp COMMA    &kp DOT     &kp B
                                                     &studio_unlock  &kp TAB    &kp SPACE  &kp BACKSPACE
             >;
         };
@@ -105,7 +105,7 @@
             bindings = <
                 &kp Q        &kp W     &kp E        &kp R           &kp T      &kp Y      &kp U               &kp I        &kp O       &kp P
                 &kp A        &kp S     &kp D        &kp F           &kp G      &kp H      &kp J               &kp K        &kp L       &kp SEMI
-                &kp Z        &kp X     &kp C        &kp V           &kp B      &kp N      &kp M               &kp COMMA    &kp DOT     &kp SLASH
+                &kp Z        &kp X     &kp C        &kp V           &kp B      &kp N      &kp M               &kp COMMA    &kp DOT     &kp C
                                                     &studio_unlock  &kp TAB    &kp SPACE  &kp BACKSPACE
             >;
         };
@@ -114,7 +114,7 @@
             bindings = <
                 &kp Q        &kp W     &kp E        &kp R           &kp T      &kp Y      &kp U               &kp I        &kp O       &kp P
                 &kp A        &kp S     &kp D        &kp F           &kp G      &kp H      &kp J               &kp K        &kp L       &kp SEMI
-                &kp Z        &kp X     &kp C        &kp V           &kp B      &kp N      &kp M               &kp COMMA    &kp DOT     &kp SLASH
+                &kp Z        &kp X     &kp C        &kp V           &kp B      &kp N      &kp M               &kp COMMA    &kp DOT     &kp D
                                                     &studio_unlock  &kp TAB    &kp SPACE  &kp BACKSPACE
             >;
         };
