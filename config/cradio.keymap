@@ -47,7 +47,7 @@
             compatible = "zmk,behavior-hold-tap";
             #binding-cells = <2>;
             flavor = "hold-preferred";
-            tapping-term-ms = <200>;
+            tapping-term-ms = <180>;
             bindings = <&mo>, <&tog>;
         };
 
@@ -96,7 +96,7 @@
             label = "L1MOD";
             bindings = <&mo>, <&kp>;
             #binding-cells = <2>;
-            tapping-term-ms = <200>;
+            tapping-term-ms = <180>;
             quick-tap-ms = <150>;
         };
     };
