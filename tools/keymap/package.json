@@ -1,0 +1,19 @@
+{
+  "name": "zmk-keymap-backup",
+  "version": "1.0.0",
+  "description": "Dump and restore the keymap stored on a ZMK keyboard via the ZMK Studio RPC over USB serial",
+  "scripts": {
+    "dump": "node keymap.mjs dump",
+    "restore": "node keymap.mjs restore",
+    "show": "node keymap.mjs show"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@zmkfirmware/zmk-studio-ts-client": "^0.0.18",
+    "serialport": "^13.0.0"
+  },
+  "private": true
+}

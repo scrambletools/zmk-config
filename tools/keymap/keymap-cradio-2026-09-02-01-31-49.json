@@ -1,0 +1,711 @@
+{
+  "format": "zmk-studio-keymap/1",
+  "dumpedAt": "2026-09-02T01:31:49.403Z",
+  "device": {
+    "name": "Cradio",
+    "serial": "b5a1927cf59316eb"
+  },
+  "availableLayers": 0,
+  "layers": [
+    {
+      "name": "Alpha",
+      "bindings": [
+        {
+          "behavior": "Key Press",
+          "param1": 458772,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458778,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458760,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458773,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458775,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458780,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458776,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458764,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458770,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458771,
+          "param2": 0
+        },
+        {
+          "behavior": "home_row_mod_left",
+          "param1": 458977,
+          "param2": 458756
+        },
+        {
+          "behavior": "home_row_mod_left",
+          "param1": 458978,
+          "param2": 458774
+        },
+        {
+          "behavior": "home_row_mod_left",
+          "param1": 458976,
+          "param2": 458759
+        },
+        {
+          "behavior": "home_row_mod_left",
+          "param1": 458979,
+          "param2": 458761
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458762,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458763,
+          "param2": 0
+        },
+        {
+          "behavior": "home_row_mod_right",
+          "param1": 458983,
+          "param2": 458765
+        },
+        {
+          "behavior": "home_row_mod_right",
+          "param1": 458980,
+          "param2": 458766
+        },
+        {
+          "behavior": "home_row_mod_right",
+          "param1": 458982,
+          "param2": 458767
+        },
+        {
+          "behavior": "home_row_mod_right",
+          "param1": 458981,
+          "param2": 458803
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458781,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458779,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458758,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458777,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458757,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458769,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458768,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458806,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458807,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458808,
+          "param2": 0
+        },
+        {
+          "behavior": "Layer-Tap",
+          "param1": 3,
+          "param2": 458793
+        },
+        {
+          "behavior": "Layer-Tap",
+          "param1": 2,
+          "param2": 458795
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458796,
+          "param2": 0
+        },
+        {
+          "behavior": "Layer-Tap",
+          "param1": 1,
+          "param2": 458794
+        }
+      ]
+    },
+    {
+      "name": "Number",
+      "bindings": [
+        {
+          "behavior": "Key Press",
+          "param1": 458806,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458782,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458783,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458784,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 34013230,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 134676523,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 134676510,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 134676511,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 134676512,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 17236012,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458791,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458785,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458786,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458787,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458797,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458832,
+          "param2": 0
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 458983,
+          "param2": 458833
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 458980,
+          "param2": 458834
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 458982,
+          "param2": 458831
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458981,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458807,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458788,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458789,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458790,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458798,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 134676560,
+          "param2": 0
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 458829,
+          "param2": 458830
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 458826,
+          "param2": 458827
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 134676559,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 34013201,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458793,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458795,
+          "param2": 0
+        },
+        {
+          "behavior": "None",
+          "param1": 0,
+          "param2": 0
+        },
+        {
+          "behavior": "None",
+          "param1": 0,
+          "param2": 0
+        }
+      ]
+    },
+    {
+      "name": "Code",
+      "bindings": [
+        {
+          "behavior": "Bluetooth",
+          "param1": 1,
+          "param2": 0
+        },
+        {
+          "behavior": "Bluetooth",
+          "param1": 0,
+          "param2": 0
+        },
+        {
+          "behavior": "None",
+          "param1": 0,
+          "param2": 0
+        },
+        {
+          "behavior": "None",
+          "param1": 0,
+          "param2": 0
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 134676507,
+          "param2": 134676486
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329716,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329702,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329703,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329709,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 34013216,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458977,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458978,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458976,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458979,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 134676505,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458804,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329711,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329712,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458797,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458798,
+          "param2": 0
+        },
+        {
+          "behavior": "Bluetooth",
+          "param1": 4,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 134676521,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 134676524,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 201785388,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 134676509,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458805,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458799,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458800,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329717,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458801,
+          "param2": 0
+        },
+        {
+          "behavior": "None",
+          "param1": 0,
+          "param2": 0
+        },
+        {
+          "behavior": "None",
+          "param1": 0,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458792,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458828,
+          "param2": 0
+        }
+      ]
+    },
+    {
+      "name": "Symbol",
+      "bindings": [
+        {
+          "behavior": "Key Press",
+          "param1": 458819,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458810,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458811,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458812,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458880,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329695,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329699,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329697,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329694,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458784,
+          "param2": 0
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 458977,
+          "param2": 458820
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 458978,
+          "param2": 458813
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 458976,
+          "param2": 458814
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 458979,
+          "param2": 458815
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 458879,
+          "param2": 458881
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329696,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329710,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329701,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329700,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458798,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458821,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458816,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458817,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458818,
+          "param2": 0
+        },
+        {
+          "behavior": "Mod-Tap",
+          "param1": 786613,
+          "param2": 786637
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 570884130,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458797,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458808,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 537329713,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458801,
+          "param2": 0
+        },
+        {
+          "behavior": "None",
+          "param1": 0,
+          "param2": 0
+        },
+        {
+          "behavior": "None",
+          "param1": 0,
+          "param2": 0
+        },
+        {
+          "behavior": "Key Press",
+          "param1": 458796,
+          "param2": 0
+        },
+        {
+          "behavior": "Studio Unlock",
+          "param1": 0,
+          "param2": 0
+        }
+      ]
+    }
+  ]
+}

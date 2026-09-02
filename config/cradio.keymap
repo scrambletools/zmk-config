@@ -148,5 +148,13 @@
                                                     &none           &kp TAB    &kp SPACE  &studio_unlock
             >;
         };
+
+        // Empty slots that ZMK Studio can fill with new layers at runtime.
+        // Reserved layers are compiled out of the keymap but count toward the
+        // layer total, which is what Studio's "add layer" draws from.
+        extra1 { status = "reserved"; };
+        extra2 { status = "reserved"; };
+        extra3 { status = "reserved"; };
+        extra4 { status = "reserved"; };
     };
 };
